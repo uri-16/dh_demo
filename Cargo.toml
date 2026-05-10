@@ -4,8 +4,7 @@ version = "1.0.0"
 edition = "2021"
 authors = ["ATTOUWLA YAO JEAN-URIEL <jeanuriel77@gmail.com>"]
 description = "Démonstration interactive de Diffie-Hellman pour le projet RP2026 - Réponse à la question de Bobo"
-license = "MIT"
-repository = "https://github.com/URI-16/dh_demo"
+repository = "https://github.com/uri-16/dh_demo"
 
 [dependencies]
 num-bigint = "0.4"
