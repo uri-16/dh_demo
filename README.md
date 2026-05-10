@@ -27,6 +27,6 @@ Montrer de manière **interactive** et **visuelle** pourquoi le choix de la tail
 ### Cloner et exécuter
 
 ```bash
-git clone https://github.com/URI-16/dh_demo.git
+git clone https://github.com/uri-16/dh_demo.git
 cd dh_demo
 cargo run
