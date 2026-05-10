@@ -13,11 +13,11 @@ Montrer de manière **interactive** et **visuelle** pourquoi le choix de la tail
 ##  Personnages
 
  
-| **Alice** | Choisit une clé privée secrète `a` |
-| **Bob** | Choisit une clé privée secrète `b` |
+| **Luis** | Choisit une clé privée secrète `a` |
+| **Charles** | Choisit une clé privée secrète `b` |
 | **Ismaël** | Écoute tout et essaie de casser le secret |
 
-**Toi** = tu joues tous les rôles !
+**Vous** = tu joues tous les rôles !
 
 ##  Installation
 
