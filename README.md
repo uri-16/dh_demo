@@ -17,7 +17,6 @@ Montrer de manière **interactive** et **visuelle** pourquoi le choix de la tail
 | **Charles** | Choisit une clé privée secrète `b` |
 | **Ismaël** | Écoute tout et essaie de casser le secret |
 
-**Vous** = tu joues tous les rôles !
 
 ##  Installation
 
